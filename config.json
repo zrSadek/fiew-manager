@@ -1,0 +1,10 @@
+{
+"token": "token",
+"prefix": "+",
+"footer": "Footer",
+"status": "Maître des SODAY",
+"statuspersobot": "Sown trop beau",
+"support": "https://discord.gg/soday",
+"développeurs": ["dev1", "dev2"],
+"color": "Color"
+}
